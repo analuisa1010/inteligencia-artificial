@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Como as tradições culturais locais influenciam a culinária regional?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "A) Elas determinam os ingredientes e os métodos de preparo usados nas receitas locais.",
+                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer."
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "B) Elas têm pouco impacto, e a culinária regional é mais influenciada por tendências internacionais.",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
